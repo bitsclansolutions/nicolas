@@ -1,0 +1,40 @@
+[28-Oct-2022 10:36:21 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 523
+[28-Oct-2022 10:36:21 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 237
+[28-Oct-2022 10:36:21 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 350
+[28-Oct-2022 10:36:21 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, bool given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 256
+[28-Oct-2022 10:36:21 UTC] PHP Warning:  asort() expects parameter 1 to be array, null given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 257
+[28-Oct-2022 10:36:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 525
+[28-Oct-2022 10:36:21 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 457
+[28-Oct-2022 10:36:29 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 523
+[28-Oct-2022 10:36:29 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 237
+[28-Oct-2022 10:36:29 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 350
+[28-Oct-2022 10:36:29 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, bool given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 256
+[28-Oct-2022 10:36:29 UTC] PHP Warning:  asort() expects parameter 1 to be array, null given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 257
+[28-Oct-2022 10:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 525
+[28-Oct-2022 10:36:29 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 457
+[28-Oct-2022 10:37:50 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 523
+[28-Oct-2022 10:37:50 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 237
+[28-Oct-2022 10:37:50 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 350
+[28-Oct-2022 10:37:50 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, bool given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 256
+[28-Oct-2022 10:37:50 UTC] PHP Warning:  asort() expects parameter 1 to be array, null given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 257
+[28-Oct-2022 10:37:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 525
+[28-Oct-2022 10:37:50 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 457
+[28-Oct-2022 10:38:07 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 523
+[28-Oct-2022 10:38:07 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 237
+[28-Oct-2022 10:38:07 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 350
+[28-Oct-2022 10:38:07 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, bool given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 256
+[28-Oct-2022 10:38:07 UTC] PHP Warning:  asort() expects parameter 1 to be array, null given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 257
+[28-Oct-2022 10:38:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 525
+[28-Oct-2022 10:38:07 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 457
+[28-Oct-2022 10:38:07 UTC] PHP Fatal error:  Uncaught Exception: MySQL Prepare statement failed:  in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php:617
+Stack trace:
+#0 /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/unismotif.php(66): SimpleUsers->addColorMotif('Test Client', '<ul><li style="...')
+#1 {main}
+  thrown in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 617
+[28-Oct-2022 10:38:10 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 523
+[28-Oct-2022 10:38:10 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 237
+[28-Oct-2022 10:38:10 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 350
+[28-Oct-2022 10:38:10 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, bool given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 256
+[28-Oct-2022 10:38:10 UTC] PHP Warning:  asort() expects parameter 1 to be array, null given in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 257
+[28-Oct-2022 10:38:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 525
+[28-Oct-2022 10:38:10 UTC] PHP Notice:  Undefined index: SimpleUsers in /home/bitsclan/nicolas.bitsclansolutions.com/laison/sct-admin/simpleusers/users.obj.php on line 457
